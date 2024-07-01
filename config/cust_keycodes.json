@@ -1,0 +1,36 @@
+[
+	{
+		"names": [
+			"&mt LSHIFT ("
+		],
+		"description": "&mt LSHIFT (",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"&mt RSHIFT )"
+		],
+		"description": "&mt RSHIFT )",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
